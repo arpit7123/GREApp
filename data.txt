@@ -1,0 +1,8 @@
+dogmatic	to be very strict	Null	stubborn	Null
+abashed	to be ashamed	Null	Null	Null
+abeyance	not being used	Null	Null	Null
+abridge	shorten	Null	Null	Null
+abate	less severe	Null	Null	Null
+abase	to accept someone's power	Null	Null	Null
+sarcarstic	funny	Null	Null	Null
+witty	clever	Null	Null	Null
